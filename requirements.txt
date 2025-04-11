@@ -1,0 +1,21 @@
+black
+flake8
+ipython
+ipywidgets
+isort
+jupyterlab
+loguru
+matplotlib
+mkdocs
+notebook
+numpy
+optuna
+pandas
+pip
+plotnine
+python-dotenv
+scikit-learn
+tqdm
+typer
+xgboost
+-e .
