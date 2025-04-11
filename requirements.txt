@@ -4,6 +4,7 @@ ipython
 ipywidgets
 isort
 jupyterlab
+lightgbm
 loguru
 matplotlib
 mkdocs
@@ -11,10 +12,12 @@ notebook
 numpy
 optuna
 pandas
+polars
 pip
 plotnine
 python-dotenv
 scikit-learn
+seaborn
 tqdm
 typer
 xgboost
